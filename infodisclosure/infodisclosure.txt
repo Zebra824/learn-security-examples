@@ -1,3 +1,6 @@
 Briefly explain the vulnerability and why the secure version prevents the vulnerability.
+It directly use user values in the query. The secure version make sure the user input is string
 Which CIA property does tampering violate?
+Availability
 What additional security mechanisms can you incorporate?
+NoSQL injection

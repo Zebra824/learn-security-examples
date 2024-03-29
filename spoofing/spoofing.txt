@@ -1,1 +1,3 @@
 Briefly explain the vulnerability and why the secure version prevents the vulnerability.
+The session is not protected welled. Hence attacker could get session id and successfully log in.
+The secure version protect session by using log state.

@@ -1,0 +1,2 @@
+tampering is that attacker use special input to trigger unintended behavior.
+The secure version use a sanitizing function to make sure the inputs are just string.
