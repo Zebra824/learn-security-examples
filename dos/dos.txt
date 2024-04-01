@@ -1,2 +1,4 @@
 - Briefly explain the vulnerability and why the secure version prevents the vulnerability.
+It directly uses user input in the query, the secure version has a try catch block to catch the error
 - What additional security mechanisms can you incorporate to prevent such attacks?
+to sanitize the user input
